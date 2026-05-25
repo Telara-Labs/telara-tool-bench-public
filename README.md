@@ -1,2 +1,3 @@
-# telara-tool-bench-public
-Telara benchmark fixture; safe to reset
+# Telara Tool Benchmark
+
+Seed repository for integration benchmark fixtures.
