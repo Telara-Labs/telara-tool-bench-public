@@ -1,0 +1,12 @@
+name: Benchmark
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  bench:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo benchmark
+      - run: sleep 600
