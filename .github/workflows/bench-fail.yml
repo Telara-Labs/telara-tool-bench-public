@@ -1,0 +1,9 @@
+name: Benchmark Failure
+on:
+  workflow_dispatch:
+jobs:
+  fail:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo benchmark failure
+      - run: exit 1
