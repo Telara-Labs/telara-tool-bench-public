@@ -1,0 +1,1 @@
+Implements lease-recovery-v3: 750ms acquire, one bounded retry, then fail closed from https://app.notion.com/p/w2-20260723t162325z-952e0656-current-lease-policy-3a6c46e3a8f481d2a320d1c46f9a6f60.
